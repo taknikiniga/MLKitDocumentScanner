@@ -1,3 +1,5 @@
+Youtube Video Link : https://youtu.be/1ehycqOv4CA?si=VhOUaUxMtUXRSEpo
+
 This Android app empowers you to efficiently scan and digitize documents using Google's cutting-edge ML Kit library. Leverage the power of on-device machine learning to extract text accurately and effortlessly, transforming physical documents into easily searchable and manageable digital formats.
 
 Key Features:
