@@ -18,7 +18,3 @@ Google ML Kit: Leverage ML Kit's Text Recognition API for on-device text extract
 Android Studio: Develop the app using Android Studio, the official integrated development environment (IDE) for Android app development.
 Getting Started:
 
-Clone the repository: git clone https://github.com/your-username/ml-kit-document-scanner.git
-Open the project in Android Studio.
-Configure dependencies (refer to official ML Kit documentation).
-Follow the provided instructions or customize the code as needed.
